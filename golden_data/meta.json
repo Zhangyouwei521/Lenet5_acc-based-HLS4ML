@@ -1,0 +1,13 @@
+{
+  "num_samples": 200,
+  "input_shape": [
+    200,
+    1,
+    28,
+    28
+  ],
+  "logits_shape": [
+    200,
+    10
+  ]
+}
